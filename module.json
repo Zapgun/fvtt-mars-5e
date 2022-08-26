@@ -39,7 +39,7 @@
   "dependencies": [],
   "socket": true,
   "manifest": "https://raw.githubusercontent.com/Zapgun/fvtt-mars-5e/master/module.json",
-  "download": "https://github.com/Zapgun/fvtt-mars-5e/releases/download/v1.7.1/v1.7.1.zip",,
+  "download": "https://github.com/Zapgun/fvtt-mars-5e/releases/download/v1.7.1/v1.7.1.zip",
   "protected": false,
   "minimumSystemVersion": "1.2.0"
 }
