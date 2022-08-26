@@ -1,5 +1,9 @@
 # MARS 5e - Moerills alternative rolling style for 5e <!-- omit in toc -->
 
+Zapgun's Edits: I've tried to include a few quality of life additions here to improve the module. These include:
+- Adding a rolling sound when auto rolling the dice
+- Fixing the skill roll text in chat cards to display all text
+
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/moerill/fvtt-mars-5e?style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/moerill/fvtt-mars-5e?style=flat-square"> <img alt="GitHub Releases" src="https://img.shields.io/github/downloads/moerill/fvtt-mars-5e/latest/total?style=flat-square">
 
 This module provides an opinionated alternative to how the roll workflow in DnD5e and how they're displayed.  
