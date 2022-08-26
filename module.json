@@ -3,11 +3,15 @@
   "title": "Mars 5e - Moerills alternative rolling style for 5e",
   "description": "This module provides an opinionated alternative to how the roll workflow in DnD5e and how they're displayed.<br>Main goal is to provide some flexibility in how much information is displayed to the players from the GM side, while also automating some basic tasks. To avoid having to care about all possible edge cases and houserules almost every automatic generated result is toggleable.",
   "author": "Moerill",
-  "authors": [],
+  "authors": [
+    {
+      "name": "Zapgun"
+    }
+  ],
   "url": "https://github.com/Moerill/fvtt-mars-5e",
   "bugs": "https://github.com/Moerill/fvtt-mars-5e/issues",
   "flags": {},
-  "version": "1.7.0",
+  "version": "1.7.1",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
   "scripts": [],
