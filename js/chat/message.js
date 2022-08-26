@@ -1079,7 +1079,7 @@ export default class Mars5eMessage extends ChatMessage {
     const message = new CONFIG.ChatMessage.documentClass(data);
     if (await message.autoRoll()) {
       data.content = message.card.outerHTML;
-
+      AudioHelper.play({src: "sounds/dice.wav", volume: 0.8, autoplay: true, loop: false}, true);
       await Mars5eUserStatistics.update(game.user, message.mars5eStatistics);
       message.resetStatistics();
     }
