@@ -3,6 +3,8 @@
 I've tried to include a few quality of life additions here to improve the module. These include:
 - Adding a rolling sound when auto rolling the dice
 - Fixing the skill roll text in chat cards to display all text
+
+Module Link: https://raw.githubusercontent.com/Zapgun/fvtt-mars-5e/master/package.json
  
 # MARS 5e - Moerills alternative rolling style for 5e <!-- omit in toc -->
 
