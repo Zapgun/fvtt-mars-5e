@@ -70,6 +70,7 @@
 }
 .chat-card.mars5e-card .card-content {
   margin: 0;
+  display: none;
 }
 
 .mars5e-player .mars5e-gm-card .item-name,
@@ -349,7 +350,7 @@
   margin: 0 0 0 1ch;
   font-size: 0.8em;
   opacity: 0.8;
-  width: 200px;
+  width: 80px;
   display: inline-block;
   font-size: 0.8em;
   font-weight: normal;
