@@ -70,6 +70,7 @@
 }
 .chat-card.mars5e-card .card-content {
   margin: 0;
+  display: none;
 }
 
 .mars5e-player .mars5e-gm-card .item-name,
